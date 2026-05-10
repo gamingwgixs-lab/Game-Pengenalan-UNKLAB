@@ -1,0 +1,16 @@
+sequenceDiagram
+    actor Actor
+    participant NPC as Karakter NPC
+    participant Sistem as Sistem Dialog
+    participant Layar as Tampilan Layar
+
+    Actor->>NPC: Menekan tombol interaksi
+    activate NPC
+    NPC->>Sistem: Mengirim instruksi mulai percakapan
+    activate Sistem
+    Sistem->>Layar: Mengirim data kalimat & nama tokoh
+    activate Layar
+    Layar->>Actor: Menampilkan teks percakapan kepada pemain
+    deactivate Layar
+    deactivate Sistem
+    deactivate NPC

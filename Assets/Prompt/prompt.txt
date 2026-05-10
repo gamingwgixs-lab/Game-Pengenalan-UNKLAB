@@ -1,0 +1,70 @@
+## Dokumentasi Percakapan Gemini CLI dan Proyek "2.5.D"
+
+**Ringkasan Proyek:**
+Proyek yang sedang dikerjakan adalah proyek Unity bernama "2.5.D" yang berlokasi di `G:\Game Dev\Project Unity\2.5.D`. Fokus awal adalah pada analisis dan modifikasi sistem Quest serta dialog NPC.
+
+**Tujuan Utama:**
+Menganalisis, memodifikasi, dan memperkaya data ScriptableObject Quest serta dialog NPC untuk lingkungan Fakultas Ilmu Komputer (FIK).
+
+---
+**1. Analisis Awal ScriptableObject Quest**
+
+*   **Identifikasi File Kunci:**
+    *   `Assets/ScriptableObject/Quest/Quest.cs` (Definisi kelas Quest)
+    *   `Assets/ScriptableObject/Quest/QuestMasterDatabase.cs` (Database pusat Quest)
+*   **Lokasi Aset Quest:** Ditemukan di `Assets/ScriptableObject/Quest/Quest Chain/` (Quest_0.asset hingga Quest_45.asset).
+*   **Database Master:** `Assets/ScriptableObject/Quest/QuestMasterDatabase/MasterQuestDatabase.asset` digunakan untuk mengatur urutan Quest.
+*   **Analisis Struktur:** Memahami field seperti `judulQuest`, `deskripsiQuest`, `npcGivers`, `npcTargets`, `poiTarget`, `listDialogPenerimaan`, `listDialogPenyelesaian`, dan `nextQuest`.
+
+---
+**2. Modifikasi Quest_1.asset**
+
+*   **Tujuan:** Mengubah dialog `Quest_1` agar sesuai dengan konteks pengenalan lingkungan FIK (Kantor, Kelas Khusus FIK, Kelas Umum).
+*   **Aksi:** Judul, deskripsi, dan dialog `listDialogPenerimaan` serta `listDialogPenyelesaian` diperbarui.
+
+---
+**3. Identifikasi dan Modifikasi Dialog NPC**
+
+*   **Tujuan:** Mencari Prefab NPC dosen dan memperbarui dialog mereka berdasarkan informasi dari `Assets/Prompt/informasiPrompt.txt`.
+*   **Dialog Batasan:** Dialog dipisah menjadi paragraf dengan maksimal 23 kata per kotak.
+
+*   **NPC yang Diproses (6 Awal):**
+    *   **Jacquline Waworundeng:** (Prefab di `Assets/Animations/Character/Dosen/Jacquline_Waworundeng/Jacquline_Waworundeng.prefab`)
+    *   **Raisa Maringka:** (Prefab di `Assets/Prefabs/Npc/Dosen/Raisa Maringka.prefab`)
+    *   **Argha Silitonga:** (Prefab di `Assets/Animations/Character/Dosen/Argha_Silitonga/Argha_Silitonga.prefab`)
+    *   **Green Mandias:** (Prefab di `Assets/Prefabs/Npc/Dosen/Green Mandias.prefab`)
+    *   **Wilsen Mokodaser:** (Prefab di `Assets/Animations/Character/Dosen/Wilsen_Mokodaser/Wilsen_Mokodaser.prefab`)
+    *   **Joe Mambu:** (Prefab di `Assets/Animations/Character/Dosen/Joe_Mambu/Joe_Mambu.prefab`)
+
+*   **Sinkronisasi Quest_5.asset:** Dialog penyelesaian di `Quest_5.asset` disesuaikan agar identik dengan dialog profil NPC yang baru dimasukkan ke Prefab mereka.
+
+*   **Identifikasi Dosen Tambahan:** Ditemukan 13 Prefab dosen tambahan.
+*   **Pembaruan Dialog Dosen Tambahan (10 Dosen):**
+    *   Mem Debby (`Assets/Prefabs/Npc/Dosen/Mem Debby.prefab`)
+    *   Sir Rolly (Rolly Lontaan) (`Assets/Prefabs/Npc/Dosen/Rolly Lontaan.prefab`)
+    *   Sir Sandag (Green Sandag) (`Assets/Prefabs/Npc/Dosen/Green Sandag.prefab`)
+    *   Mem Lidya (Lidya Laoh) (`Assets/Prefabs/Npc/Dosen/Lidya Laoh.prefab`)
+    *   Sir Julio (Julio Kolapitawondal) (`Assets/Prefabs/Npc/Dosen/Julio Kolapitawondal.prefab`)
+    *   Sir Tangka (George Tangka) (`Assets/Prefabs/Npc/Dosen/George Tangka.prefab`)
+    *   Sir Wahyudi (Andria Wahyudi) (`Assets/Prefabs/Npc/Dosen/Andria Wahyudi.prefab`)
+    *   Sir Adam (Stenly Adam) (`Assets/Prefabs/Npc/Dosen/Stenly Adam.prefab`)
+    *   Sir Liem (Andrew Liem) (`Assets/Animations/Character/Dosen/Andrew_Liem/Andrew_Liem.prefab`)
+    *   Sir Lengkong (Oktoverano Lengkong) (`Assets/Animations/Character/Dosen/Oktoverano_Lengkong/Oktoverano_Lengkong.prefab`)
+    *   Sir Reymon (Reymon Rotikan) (`Assets/Animations/Character/Dosen/Reymon_Rotikan/Reymon_Rotikan.prefab`)
+    *   Sir Edson (Edson Putra) (`Assets/Animations/Character/Dosen/Edson_Putra/Edson_Putra.prefab`)
+
+*   **Dosen yang Belum Ditemukan Prefabnya:** Tidak ada. Semua dosen dari `informasiPrompt.txt` kini memiliki prefab yang diidentifikasi dan diperbarui.
+
+---
+**Alat yang Digunakan:**
+*   `glob`: Untuk mencari file prefab berdasarkan pola nama dan lokasi.
+*   `list_directory`: Untuk melihat isi folder.
+*   `read_file`: Untuk membaca konten file `.cs` dan `.asset`.
+*   `replace`: Untuk memodifikasi konten file YAML (Prefab dan ScriptableObject).
+
+---
+**Status Saat Ini:**
+Semua dialog yang ditentukan dalam `informasiPrompt.txt` telah berhasil dimasukkan ke dalam Prefab NPC dosen yang relevan, dan dialog penyelesaian di `Quest_5.asset` telah disinkronkan.
+
+---
+_Dokumentasi ini dibuat berdasarkan interaksi terakhir hingga saat ini._

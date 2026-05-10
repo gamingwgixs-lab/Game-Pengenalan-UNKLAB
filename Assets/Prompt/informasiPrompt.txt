@@ -1,0 +1,97 @@
+Kelas 303
+Mem Debby
+Mem Debby 1st Dialog:
+Halo! Selamat datang di ruangan kelas 303 Saya Debby Sondakh, salah satu pengajar di fakultas ini. Selain mengajar saya juga memimpin bagian penelitian di universitas ini. Saya sering membantu masyarakat lewat pelatihan teknologi yang kreatif. Senang bisa menyapa kamu di fakultas kami!
+
+Mem Debby 2nd Dialog:
+Bagaimana suasananya? Kalau nanti kamu tertarik soal riset jangan ragu buat mengobrol ya!
+
+Kelas 502
+Sir Rolly
+Sir Rolly 1st Dialog:
+Halo! Selamat datang di ruangan 502, Saya Rolly Lontaan, salah satu pengajar di fakultas ini. Saya sangat suka membuat aplikasi belajar yang asyik buat digunakan banyak orang. Di sini kita belajar caranya bikin teknologi yang benar benar membantu sesama. Selamat berkeliling dan semoga kamu terinspirasi ya!
+
+Sir Rolly 2nd Dialog:
+Bagaimana turnya? Masih banyak ruangan lain yang bisa kamu lihat lho! Tetap semangat ya!
+
+Kelas 503
+Sir Sandag
+Sir Sandag 1st Dialog:
+Halo! Selamat datang di ruangan komputer 503 Nama saya Sir Green Sandag. Di sini saya mengajar tentang kecerdasan buatan supaya komputer bisa belajar dan berpikir sendiri lho. Senang sekali bisa menyapa kamu di lingkungan Filkom ini!
+
+Sir Sandag 2nd Dialog:
+Kalau ada yang mau kamu tanyakan soal dunia AI jangan ragu buat bicara ya!
+
+DIALOG KELAS GEDUNG ADMINISTRASI
+
+
+LAB KOMPUTER 201
+Mem Lidya
+Mem Lidya 1st Dialog:
+Halo! Selamat datang di lab komputer 201, saya Lidya Laoh, salah satu pengajar di fakultas ini. Fokus saya adalah mengolah data dan membuat perangkat lunak yang memudahkan orang banyak. Saya juga pernah menulis buku supaya para mahasiswa lebih mudah belajar teknologi. 
+
+Mem Lidya 2nd Dialog:
+Kalau kamu punya pertanyaan soal bisnis dan teknologi jangan ragu buat nanya ya!
+
+LAB KOMPUTER 202
+Sir Julio
+Sir Julio 1st Dialog:
+Halo! Selamat datang di lab komputer 202, saya Julio Kolopitawondal, salah satu pengajar dalam prodi Teknologi Informasi di fakultas ini. Fokus saya itu adalah pada aspek visual dan fungsional teknologi. Saya juga aktif membimbing mahasiswa dalam merencanakan masa depan mereka di dunia teknologi. Pesan saya cuma satu jangan pernah berhenti buat tingkatin kemampuan desain kamu!
+
+Sir Julio 2nd Dialog:
+Ingat jangan terlalu memaksakan diri, terkadang mengambil sesaat untuk beristirahat itu lebih baik, daripada membiarkan usahamu gagal karena kamu terlalu memaksakan diri.
+
+LAB KOMPUTER 203
+Sir Tangka
+Sir Tangka 1st Dialog:
+Halo! Selamat datang di lab komputer 203, saya George Tangka. Di sini saya mengajar cara mengelola proyek teknologi supaya sukses seperti bisnis besar di luar sana. Walau saya suka bercanda saya tetap serius bantu kamu jadi ahli yang hebat.
+
+Sir Tangka 2nd Dialog:
+Santai saja jangan terlalu kaku selama kamu di sini.
+
+DIALOG KELAS GEDUNG KULIAH 2
+
+LAB KOMPUTER 202
+Sir Wahyudi
+Sir Wahyudi 1st Dialog:
+Halo! Selamat datang di Lab Komputer 2, saya Andria Wahyudi, salah satu dosen di fakultas ini. Selain jadi dosen saya juga punya studio pengembang game sendiri lho. Di sini kita bakal banyak belajar soal dunia kreatif dan cara bikin teknologi masa depan yang seru. Senang sekali bisa menyapa kamu di sini!
+
+Sir Wahyudi 2nd Dialog:
+Kalau kamu punya minat besar soal main game atau penasaran tentang teknologi masa depan jangan ragu buat mengobrol bareng saya ya!
+
+LAB KOMPUTER 202
+Sir Adam
+Sir Adam 1st Dialog:
+Halo! Selamat datang di Lab Komputer 1, Saya Stenly Adam. Fokus saya adalah membuat aplikasi web yang cepat dan sistem komputer yang hebat. Saya juga membantu mengelola tulisan ilmiah di kampus ini supaya karya kita dikenal banyak orang. Selamat menjelajahi fakultas kami ya!
+
+Sir Adam 2nd Dialog:
+Sudah lihat laboratorium kita? Kalau kamu punya minat besar soal cara kerja sistem komputer atau mau tahu rasanya sekolah di luar negeri jangan ragu buat bertanya ya. Semangat terus!
+
+Sir Liem
+Sir Liem 1st Dialog:
+Halo! Saya Andrew Liem, salah satu dosen di fakultas ini. Saya pernah memimpin fakultas ini sebagai dekan dan sekarang fokus membimbing para dosen serta mahasiswa agar terus berinovasi. Saya ingin memastikan kualitas belajar di sini tetap yang terbaik untuk kalian semua. Selamat berkeliling dan tetap semangat!
+
+Sir Liem 2nd Dialog:
+Masih bersemangat kan? Jangan takut untuk menyapa atau bertanya kalau kamu ingin tahu lebih banyak soal dunia teknologi ya!
+
+Sir Lengkong
+Sir Lengkong 1st Dialog:
+Apa kabar! Saya Sir Oktoverano Lengkong, salah satu pengajar di fakultas ini. Bidang yang saya dalami adalah desain digital dan teknologi dunia virtual yang keren itu. Saya suka meneliti bagaimana cara membuat aplikasi yang enak dilihat dan nyaman dipakai banyak orang. Jangan ragu buat menyapa kalau kita ketemu ya!
+
+Sir Lengkong 2nd Dialog:
+Kalau kamu punya minat besar soal dunia desain atau teknologi masa depan jangan ragu buat mengobrol sama saya ya!
+
+Sir Reymon
+Sir Reymon 1st Dialog:
+Hai apa kabar! Saya Reymon Rotikan, salah satu dosen di fakultas ini. Di fakultas ini saya mengajar sistem informasi dan mengelola banyak proyek digital kampus seperti sistem skripsi online. Saya selalu berusaha memastikan teknologi di sini bekerja dengan baik untuk membantu semua orang. Semangat berkeliling!
+
+Sir Reymon 2nd Dialog:
+Kalau kamu punya pertanyaan soal bagaimana sistem digital di kampus ini bekerja jangan ragu buat menyapa saya lagi ya!
+
+Sir Edson
+Sir Edson 1st Dialog:
+Apa Kabar! Saya Edson Putra. Di fakultas ini saya banyak membimbing mahasiswa dalam organisasi dan kegiatan sosial kampus. Fokus saya adalah memastikan teknologi yang kita buat punya manfaat nyata bagi orang banyak. Jangan sungkan buat mengobrol kalau kita ketemu lagi ya!
+
+Sir Edson 2nd Dialog:
+Kalau kamu butuh tips atau cara memulai bisnis teknologi jangan ragu buat mampir ke meja saya nanti ya!
+

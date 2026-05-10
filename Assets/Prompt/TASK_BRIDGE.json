@@ -1,0 +1,26 @@
+{
+  "task_metadata": {
+    "brain_model": "Gemini 3",
+    "executor_target": "Gemini 2.5 Flash Lite",
+    "status": "PENDING"
+  },
+  "instructions": [
+    {
+      "id": "UPDATE_DOSEN_BATCH_2",
+      "action": "REPLACE_DIALOGUE",
+      "target_files": [
+        "Assets/Prefabs/Npc/Dosen/Jimmy Moedjahedy.prefab",
+        "Assets/Prefabs/Npc/Dosen/Marcell Tombeng.prefab",
+        "Assets/Prefabs/Npc/Dosen/Semmy Taju.prefab",
+        "Assets/Prefabs/Npc/Dosen/Stenly Pungus.prefab",
+        "Assets/Prefabs/Npc/Dosen/Wilma Kainde.prefab"
+      ],
+      "source_reference": "Assets/Prompt/informasiPrompt.txt",
+      "constraints": {
+        "max_words_per_paragraph": 23,
+        "language": "Indonesian"
+      },
+      "note": "Jika data dialog spesifik untuk dosen ini tidak ada di informasiPrompt.txt, buatlah dialog perkenalan generik yang ramah bertema FIK."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+newmtl Cubicals
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Tr 0.000000
+illum 0
+Ns 0.000000
+map_Kd texture_Cubicals.png
+map_d texture_Cubicals.png
+newmtl Cubicals1
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Tr 0.000000
+illum 0
+Ns 0.000000
+map_Kd texture_Cubicals1.png
+map_d texture_Cubicals1.png
+newmtl CubFix
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Tr 0.000000
+illum 0
+Ns 0.000000
+map_Kd texture_CubFix.png
+map_d texture_CubFix.png

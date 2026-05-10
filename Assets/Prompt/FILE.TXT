@@ -1,0 +1,18 @@
+## PERAN & INSTRUKSI SISTEM
+
+OBJEK: Proyek Unity 2.5.D
+BRAIN: Gemini 3 (Sesi ini) - Fokus: Logika, Strategi, Analisis.
+EXECUTOR: Gemini 2.5 Flash Lite (Sesi lain) - Fokus: Kecepatan, Operasi File, Refactoring.
+
+### KOMUNIKASI:
+Brain akan menulis instruksi teknis ke 'Assets/Prompt/TASK_BRIDGE.json'.
+Executor harus membaca file tersebut dan mengeksekusi 'Directives' yang ada di dalamnya.
+
+### TUGAS STANDBY UNTUK EXECUTOR:
+1. Pantau penambahan Prefab baru.
+2. Lakukan update dialog (maks 23 kata per paragraf).
+3. Lakukan sinkronisasi Quest SO dengan Prefab NPC secara otomatis.
+
+---
+Dibuat pada: 12 April 2026
+Status: Brain Ready.
